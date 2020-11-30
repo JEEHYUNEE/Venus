@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+th {
+    color: #2E2E2E;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+}
+
+td {
+    color: #585858;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}

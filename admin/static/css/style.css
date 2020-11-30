@@ -1,0 +1,25 @@
+.form-field-title{
+    background-color:#4e73df;
+    text-align:center;
+    color:white;
+    padding: .75rem 1rem;
+    font-weight: 400;
+    vertical-align: middle;
+
+}
+.form-field-title-white{
+    text-align:left;
+    padding: .75rem 1rem;
+    font-weight: 400;
+    vertical-align: middle;
+    width:100%;
+
+    
+}
+.register-btn{
+    margin:0 auto;
+    border-radius: 15rem;
+}
+.register-btn:hover{
+    background-color:steelblue;
+}

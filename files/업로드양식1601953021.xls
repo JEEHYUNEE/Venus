@@ -1,0 +1,256 @@
+
+
+<style>
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:굴림체, monospace;
+	mso-font-charset:129;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:표준;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:굴림체, monospace;
+	mso-font-charset:129;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	color:white;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid #333333;
+	background:#969696;
+	mso-pattern:black none;}
+.xl66
+	{mso-style-parent:style0;
+	color:#333333;
+	mso-number-format:"\@";
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid silver;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<table border=0 cellpadding=0 cellspacing=0 width=9776 style='border-collapse:
+ collapse;table-layout:fixed;width:9776pt'>
+ <tr height=25 style='mso-height-source:userset;height:18.75pt'>
+  <td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>사원명</td>
+  <td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>아이디</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>기본급</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>상여금</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>직무수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>의료비</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>연차수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>지각/결근</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>교통비</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>소급분</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>야간수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>성과급</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>자격수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>보건수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>연장수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>특별상여</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>식대</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>연말정산</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>휴일근무수당</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>추가연장</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>복리후생비</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+  <td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>급여합계</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>건강보험</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>국민연금</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>고용보험</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>건강보험연말정산</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>신원보증보험</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>갑종근로소득세</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>주민세</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>소급분</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>일반가불/식권지급</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>채용신체검사비</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>선지급액</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>기타공제</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>노인장기요양보험</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>장기요양연말정산</td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'></td>
+	
+  <td height=25 class=xl65 width=94 style='height:18.75pt;width:71pt'>공제합계</td>
+</tr>
+ <tr height=25 style='mso-height-source:userset;height:18.75pt'>
+  <td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+  <td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+  <td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+		<td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+	
+  <td height=25 class=xl66 width=94 style='height:18.75pt;width:71pt'></td>
+</tr>
+
+</table>
